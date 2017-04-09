@@ -1,0 +1,10 @@
+#!/bin/bash
+# Quotes Double ("") single (' ') back (` `) 
+
+echo " This book is madhu's book"
+echo "ls"
+echo 'ls'
+echo `ls`
+
+# back quotes can be used as $(ls)
+echo $(ls)

@@ -1,0 +1,7 @@
+#!/bin/bash
+# This is a comment
+
+# This script will print name 
+# to print in bash scripting we use echo
+
+echo "Hello"

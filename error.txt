@@ -1,0 +1,13 @@
+No command 'lsdfd' found, did you mean:
+ Command 'lsdvd' from package 'lsdvd' (universe)
+lsdfd: command not found
+No command 'lsdfd' found, did you mean:
+ Command 'lsdvd' from package 'lsdvd' (universe)
+lsdfd: command not found
+030417.txt
+3rd
+4th
+5th
+error.txt
+first
+second
