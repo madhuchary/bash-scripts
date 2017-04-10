@@ -1,0 +1,10 @@
+* $? - exit status
+** 0 - success
+** >0 - failure
+
+* $# - Number of arguments (Count)
+
+* $* - Display all arguments ( single string )
+
+* $@ - Display all arguments ( Multiple strings )
+
